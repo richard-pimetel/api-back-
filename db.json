@@ -1,0 +1,26 @@
+{
+    "fotos": [
+      {
+        "id": "1",
+        "title": "Mesa do RPG",
+        "views": 1000,
+        "url": "https://lh3.googleusercontent.com/pw/AP1GczNPPrVsU1MRd3TDQc69tPAAWOtNFEvKv35BMEz22UIzSUAgPrOCyDODNQQ2ckR6zW_SyGBO7LxbBMPJUj3RxwxVFe5icyj6Fo9UQvsrqZCLlXqlUWkabPi3rkv66r5NlKUpLKexyfME1SGwLkaEs8bu=w2054-h2728-s-no-gm?a",
+        "data": "31/07/25"
+      },
+      {
+        "id": "2",
+        "title": "Mesa de Ping Pong",
+        "views": 200,
+        "url": "https://lh3.googleusercontent.com/pw/AP1GczMfTfFKgh6RGtgtSPsN8iuDDs8PqUBBqqbBVvIyP-ZqrvrufO31wg-BJpUYqa93CKr9LR3zdYSE-J-vSuMj5lRtqGcSfO66cHUHy4Yp1pH8r-Vi7Ll53JT6OvRoG-oqoNWdWQIp-6VHzOdgaQzzksYL=w2054-h2728-s-no-gm?",
+        "data": "31/07/25"
+      },
+      {
+        "id": "3",
+        "title": "Cantina dos salgados bom",
+        "views": 120,
+        "url": "https://lh3.googleusercontent.com/pw/AP1GczNqH6TkR4CyknspXZ7nLuENDEudBKQpmh37l5IUWbGVeiXhAxMAxoZR35FidrMs1sOJTLcfG85v5PtFVeKrJJ_U1l3LMBg4seGaMdqGaeoHBXKX7EcMcT0WAeS4tDV-ZX1DBjDhXxUkFvG6eulbCRnx=w2054-h2728-s-no-gm?authuser=0",
+        "data": "31/07/25"
+      }
+    
+    ]
+  }
